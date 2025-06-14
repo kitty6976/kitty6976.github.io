@@ -1,3 +1,27 @@
 body{
-  background-color:#0af5aa
+  background-color:#0af5aa;
+  
+}
+
+
+
+@keyframes Hi { 
+  0%{   background-color: #FE0609; width:300px;
+    height:300px;
+    
+  }
+  10%{background-color:#FE9900;}
+  20%{background-color:#FFDE59;}
+  30%{background-color:#7DDA58;}
+  40%{background-color:#5DE2E7;}
+  50%{background-color:#060270;}
+  60%{background-color:#CC6CE7;}
+  
+  
+  
+  
+  
+  70%{background-color:#C60EFA;  width:1px;
+    height:1px;
+  }
 }
